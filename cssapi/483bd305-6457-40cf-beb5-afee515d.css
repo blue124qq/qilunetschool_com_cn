@@ -1,0 +1,23 @@
+@import url(../t/1-css_483bd305-6457-40cf-beb5-af.css);
+@font-face{
+font-family:"Century Gothic W01_n4";
+src:url("https://fast.fonts.net/dv2/2/bd45538f-4200-4946-b177-02de8337032d.eot?d44f19a684109620e4841579a190e818c2cd5c69820df687d3e552fa96b3a1370c2123452c97db9bec8d829e088fcd8ad8de4c89db27f56b34b1a726003ef5eaf26a99f276c34ceadb10162b831c1a1cf9b50f5a3805adf2b0ec78e66dd7814e84f820a2f004f149ec68&projectId=483bd305-6457-40cf-beb5-afee515d27c2#iefix") format("eot");
+}
+@font-face{
+font-family:"Century Gothic W01";
+src:url("https://fast.fonts.net/dv2/2/bd45538f-4200-4946-b177-02de8337032d.eot?d44f19a684109620e4841579a190e818c2cd5c69820df687d3e552fa96b3a1370c2123452c97db9bec8d829e088fcd8ad8de4c89db27f56b34b1a726003ef5eaf26a99f276c34ceadb10162b831c1a1cf9b50f5a3805adf2b0ec78e66dd7814e84f820a2f004f149ec68&projectId=483bd305-6457-40cf-beb5-afee515d27c2#iefix");
+src:url("https://fast.fonts.net/dv2/2/bd45538f-4200-4946-b177-02de8337032d.eot?d44f19a684109620e4841579a190e818c2cd5c69820df687d3e552fa96b3a1370c2123452c97db9bec8d829e088fcd8ad8de4c89db27f56b34b1a726003ef5eaf26a99f276c34ceadb10162b831c1a1cf9b50f5a3805adf2b0ec78e66dd7814e84f820a2f004f149ec68&projectId=483bd305-6457-40cf-beb5-afee515d27c2#iefix") format("eot"),url("../dv2/14/700cfd4c-3384-4654-abe1-aa1a6e80.woff2") format("woff2"),url("https://fast.fonts.net/dv2/3/9908cdad-7524-4206-819e-4f345a666324.woff?d44f19a684109620e4841579a190e818c2cd5c69820df687d3e552fa96b3a1370c2123452c97db9bec8d829e088fcd8ad8de4c89db27f56b34b1a726003ef5eaf26a99f276c34ceadb10162b831c1a1cf9b50f5a3805adf2b0ec78e66dd7814e84f820a2f004f149ec68&projectId=483bd305-6457-40cf-beb5-afee515d27c2") format("woff"),url("../dv2/1/b710c26a-f1ae-4fb8-a9fe-570fd829.ttf") format("truetype"),url("https://fast.fonts.net/dv2/11/c9e387df-c0d3-42e1-8de6-78c41f68594c.svg?d44f19a684109620e4841579a190e818c2cd5c69820df687d3e552fa96b3a1370c2123452c97db9bec8d829e088fcd8ad8de4c89db27f56b34b1a726003ef5eaf26a99f276c34ceadb10162b831c1a1cf9b50f5a3805adf2b0ec78e66dd7814e84f820a2f004f149ec68&projectId=483bd305-6457-40cf-beb5-afee515d27c2#c9e387df-c0d3-42e1-8de6-78c41f68594c") format("svg");
+font-weight:400;font-style:normal;
+}
+@font-face{
+font-family:"Century Gothic W01_n7";
+src:url("../dv2/2/b247e158-e647-4a3d-9637-944de512.eot#iefix") format("eot");
+}
+@font-face{
+font-family:"Century Gothic W01";
+src:url("../dv2/2/b247e158-e647-4a3d-9637-944de512.eot#iefix");
+src:url("../dv2/2/b247e158-e647-4a3d-9637-944de512.eot#iefix") format("eot"),url("https://fast.fonts.net/dv2/14/bc0668e2-e5c8-45ce-954d-3b998c6b6803.woff2?d44f19a684109620e4841579a190e818c2cd5c69820df687d3e552fa96b3a1370c2123452c97db9bec8d829e088fcd8ad8de4c89db27f56b34b1a726003ef5eaf26a99f276c34ceadb10162b831c1a1cf9b50f5a3805adf2b0ec78e66dd7814e84f820a2f004f149ec68&projectId=483bd305-6457-40cf-beb5-afee515d27c2") format("woff2"),url("https://fast.fonts.net/dv2/3/2ef5ecda-1772-45e2-843f-a13f5d76ed3a.woff?d44f19a684109620e4841579a190e818c2cd5c69820df687d3e552fa96b3a1370c2123452c97db9bec8d829e088fcd8ad8de4c89db27f56b34b1a726003ef5eaf26a99f276c34ceadb10162b831c1a1cf9b50f5a3805adf2b0ec78e66dd7814e84f820a2f004f149ec68&projectId=483bd305-6457-40cf-beb5-afee515d27c2") format("woff"),url("https://fast.fonts.net/dv2/1/33cf10ca-a6bb-4888-a320-d38720c9847b.ttf?d44f19a684109620e4841579a190e818c2cd5c69820df687d3e552fa96b3a1370c2123452c97db9bec8d829e088fcd8ad8de4c89db27f56b34b1a726003ef5eaf26a99f276c34ceadb10162b831c1a1cf9b50f5a3805adf2b0ec78e66dd7814e84f820a2f004f149ec68&projectId=483bd305-6457-40cf-beb5-afee515d27c2") format("truetype"),url("https://fast.fonts.net/dv2/11/3428a0e6-cb4d-408a-8331-cc78554ab49c.svg?d44f19a684109620e4841579a190e818c2cd5c69820df687d3e552fa96b3a1370c2123452c97db9bec8d829e088fcd8ad8de4c89db27f56b34b1a726003ef5eaf26a99f276c34ceadb10162b831c1a1cf9b50f5a3805adf2b0ec78e66dd7814e84f820a2f004f149ec68&projectId=483bd305-6457-40cf-beb5-afee515d27c2#3428a0e6-cb4d-408a-8331-cc78554ab49c") format("svg");
+font-weight:700;font-style:normal;
+}
+@media all and (min-width: 0px) {
+}

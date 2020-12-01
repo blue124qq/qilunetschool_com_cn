@@ -1,0 +1,44 @@
+<a class="close">&times;</a>
+<div class="content">
+        <script src="js/bookaroom.js"></script>
+
+    <form class="book-a-room" action="https://rooms.norfolkpassport.com/availability/bed-and-breakfast/" method="post" target="_blank">
+        <input type="hidden" name="search[businessPreference]" value="3">
+
+        <div class="checkin">
+            <label for="hotel_checkindate">Check In</label>
+            <input type="text" name="search[checkInDate]" id="hotel_checkInDate" value="2020-12-01">
+        </div>
+
+        <div class="nights">
+            <label for="hotel_nights">Nights</label>
+            <select name="search[nights]" id="hotel_nights">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+            </select>
+        </div>
+
+        <div class="sleepers">
+            <label for="hotel_adults">Adults</label>
+            <select name="search[adults]" id="hotel_adults">
+                <option value="1">1</option>
+                <option value="2" selected="selected">2</option>
+            </select>
+
+            <label for="hotel_children">Children</label>
+            <select name="search[children]" id="hotel_children">
+                <option value="0" selected="selected">0</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+            </select>
+        </div>
+
+                    <input type="hidden" name="search[room]" value="24">
+        
+        <input type="submit" class="button" value="Check Availability">
+    </form>
+</div>
